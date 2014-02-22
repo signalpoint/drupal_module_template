@@ -1,0 +1,6 @@
+example.example_world:
+  path: '/example_world'
+  defaults:
+    _content: '\Drupal\example\Controller\ExampleController::exampleWorld'
+  requirements:
+    _permission: 'view published content'

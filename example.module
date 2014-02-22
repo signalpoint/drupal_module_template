@@ -1,0 +1,13 @@
+<?php
+/**
+* Implements hook_menu().
+*/
+function example_menu() {
+  $items['example_world'] = array(
+    'title' => 'Hello',
+    'description' => 'The Hello World page',
+    'route_name' => 'example.example_world',
+  );
+  return $items;
+}
+?>

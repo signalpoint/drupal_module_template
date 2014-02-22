@@ -1,0 +1,11 @@
+name: Example
+description: 'The Example Mobile Application Development Kit Drupal Module.'
+package: Mobile
+type: module
+core: 8.x
+dependencies:
+  - node
+  - serialization
+  - rest
+  - basic_auth
+configure: example.admin_index

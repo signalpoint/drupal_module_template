@@ -1,4 +1,5 @@
-drupal_8_module
-===============
+drupal_module_template
+======================
 
-A Drupal 8 Module Template. Use this to quickly create a custom module for Drupal 8.
+A Drupal Module Template. Use this as a skeleton for a custom Drupal 8 module.
+
